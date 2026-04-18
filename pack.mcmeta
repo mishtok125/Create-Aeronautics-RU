@@ -1,0 +1,32 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": [
+      {"text": "Перевод ", "color": "gray"},
+      {"text":"C","color":"#54DAF4"},
+      {"text":"r","color":"#4CD7F4"},
+      {"text":"e","color":"#44D3F4"},
+      {"text":"a","color":"#3CD0F5"},
+      {"text":"t","color":"#34CCF5"},
+      {"text":"e","color":"#2BC8F6"},
+      {"text":" "},
+      {"text":"A","color":"#1BC0F7"},
+      {"text":"e","color":"#12BCF7"},
+      {"text":"r","color":"#0AB7F8"},
+      {"text":"o","color":"#06B0F4"},
+      {"text":"n","color":"#05A8ED"},
+      {"text":"a","color":"#04A0E6"},
+      {"text":"u","color":"#0399DF"},
+      {"text":"t","color":"#0291D8"},
+      {"text":"i","color":"#018AD1"},
+      {"text":"c","color":"#0182CA"},
+      {"text":"s","color":"#007BC3"},
+      {"text": " на ", "color": "gray"},
+      {"text": "рус", "color": "white"},
+      {"text": "ск", "color": "blue"},
+      {"text": "ий", "color": "red"},
+      {"text": " от ", "color": "gray"},
+      {"text": "mishtok", "color": "white", "bold": false}
+    ]
+  }
+}
